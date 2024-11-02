@@ -1,8 +1,4 @@
-{"users": [
-
-{"Name" : "Василий", "DateOfBirth" : "18.08.1990"},
+ [{"Name" : "Василий", "DateOfBirth" : "18.08.1990"},
 {"Name" : "Дмитрий", "DateOfBirth" : "1.11.1995"},
 {"Name" : "Петр", "DateOfBirth" : "10.01.1999"},
-{"Name" : "Иван", "DateOfBirth" : "30.05.1991"}
-
-] }
+{"Name" : "Иван", "DateOfBirth" : "30.05.1991"}] 
