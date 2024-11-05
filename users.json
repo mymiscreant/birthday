@@ -4,4 +4,9 @@
 {"Name" : "Иван", "DateOfBirth" : "04.11.1991"},
 {"Name" : "Андрей", "DateOfBirth" : "28.12.1999"},
 {"Name" : "Михаил", "DateOfBirth" : "30.11.1992"},
-{"Name" : "Сергей", "DateOfBirth" : "1.06.1977"}] 
+{"Name" : "Сергей", "DateOfBirth" : "1.06.1977"},
+{"Name" : "Федор", "DateOfBirth" : "2.12.1979"},
+{"Name" : "Денис", "DateOfBirth" : 25.11.1973"},
+{"Name" : "Вася", "DateOfBirth" : "31.12.1973"},
+{"Name" : "Клава", "DateOfBirth" : "11.12.1988"},
+{"Name" : "Маруся", "DateOfBirth" : "05.12.1998"}]
